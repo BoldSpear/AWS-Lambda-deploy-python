@@ -1,5 +1,5 @@
-# pipeline-3-deploy-color-based-model
-AWS lambda deployment for color-based image classifiers
+# AWS Lambda deployment of image classifiers, color-based and template-based models
+AWS lambda deployment steps for color-based and template-based image classifiers
 
 
 ### 1. Build docker images with docker file name
